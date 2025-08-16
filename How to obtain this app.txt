@@ -3,6 +3,7 @@ The author is very poor recently, so this is not available for free at the momen
 
 Since this app is still in the debugging stage, there are still some issues when dealing with multiple sets of files,
 
- but processing the first set of files should not be a big problem. Therefore, the current version is priced at ￥80.
+ but processing the first set of files should not be a big problem. Therefore, the current version is priced at ￥66.
+
 
 
